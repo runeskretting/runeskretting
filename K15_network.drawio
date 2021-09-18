@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T18:02:11.395Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.41 Safari/537.36 Edg/94.0.992.19" etag="jZnc9ffv8tSnJu0LLBCG" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-18T18:04:43.585Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.41 Safari/537.36 Edg/94.0.992.19" etag="jpEUxFOOC6aTxwx_wQkg" version="15.2.9" type="github">
   <diagram id="W_XMxv9y36g6PvLCYUjf" name="Page-1">
     <mxGraphModel dx="1422" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,8 +34,23 @@
         <mxCell id="Be2gnzdaN61zOpge0nfu-6" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.modem;" parent="1" vertex="1">
           <mxGeometry x="120" y="210" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5O99Y-24R9B2gPLI0et_-1" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Non_Azure_Machine.svg;" vertex="1" parent="1">
+        <mxCell id="5O99Y-24R9B2gPLI0et_-1" value="pve" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Non_Azure_Machine.svg;" vertex="1" parent="1">
           <mxGeometry x="600" y="490" width="31" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5O99Y-24R9B2gPLI0et_-3" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
+          <mxGeometry x="380" y="585" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="5O99Y-24R9B2gPLI0et_-4" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux_Non_Azure.svg;" vertex="1" parent="1">
+          <mxGeometry x="470" y="585" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="5O99Y-24R9B2gPLI0et_-5" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
+          <mxGeometry x="570" y="585" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="5O99Y-24R9B2gPLI0et_-6" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux_Non_Azure.svg;" vertex="1" parent="1">
+          <mxGeometry x="680" y="585" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="5O99Y-24R9B2gPLI0et_-7" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="1">
+          <mxGeometry x="280" y="585" width="50" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
